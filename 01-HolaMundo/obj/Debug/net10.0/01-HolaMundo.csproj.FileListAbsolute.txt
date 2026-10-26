@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Fundamentos de progrmacion\01-HolaMundo\bin\Debug\net10.0\01-HolaMundo.exe
+C:\Users\ASUS\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Fundamentos de progrmacion\01-HolaMundo\bin\Debug\net10.0\01-HolaMundo.deps.json
+C:\Users\ASUS\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Fundamentos de progrmacion\01-HolaMundo\bin\Debug\net10.0\01-HolaMundo.runtimeconfig.json
+C:\Users\ASUS\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Fundamentos de progrmacion\01-HolaMundo\bin\Debug\net10.0\01-HolaMundo.dll
+C:\Users\ASUS\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Fundamentos de progrmacion\01-HolaMundo\bin\Debug\net10.0\01-HolaMundo.pdb
+C:\Users\ASUS\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Fundamentos de progrmacion\01-HolaMundo\obj\Debug\net10.0\01-HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Fundamentos de progrmacion\01-HolaMundo\obj\Debug\net10.0\01-HolaMundo.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Fundamentos de progrmacion\01-HolaMundo\obj\Debug\net10.0\01-HolaMundo.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Fundamentos de progrmacion\01-HolaMundo\obj\Debug\net10.0\01-HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Fundamentos de progrmacion\01-HolaMundo\obj\Debug\net10.0\01-HolaMundo.dll
+C:\Users\ASUS\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Fundamentos de progrmacion\01-HolaMundo\obj\Debug\net10.0\refint\01-HolaMundo.dll
+C:\Users\ASUS\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Fundamentos de progrmacion\01-HolaMundo\obj\Debug\net10.0\01-HolaMundo.pdb
+C:\Users\ASUS\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Fundamentos de progrmacion\01-HolaMundo\obj\Debug\net10.0\01-HolaMundo.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Fundamentos de progrmacion\01-HolaMundo\obj\Debug\net10.0\ref\01-HolaMundo.dll
